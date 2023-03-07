@@ -4,8 +4,13 @@ A Full-Stack JavaScript Developer with experience of JavaScript / TypeScript, Re
 
 :cyclone: Full-Stack JavaScript/TypeScript Developer
 
+:gun: React, NextJS, Redux
+
+:computer: NodJS, Express, REST, Async, MondoDB, SQL 
 
 :school_satchel: Le Wagon Amsterdam + School of Applied Technology </SALT>
+
+
 
 
 * JavaScript / TypeScript
