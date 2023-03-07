@@ -1,6 +1,14 @@
-### Hi there 👋
+### 
 
 A Full-Stack JavaScript Developer with experience of JavaScript / TypeScript, React, MongoDB, Node.js, Next.js and Express. Creating solutions through TDD (test driven development) with simple, readable and scalable code.
+
+* JavaScript / TypeScript
+* MERN Stack
+* Web + Mobile App Design
+* Git + GitHub
+* Active Records, SQL + JSON
+* UI/UX + Figma Design
+* Responsive + Mobile First Design
 
 - 🔭 I’m currently working on React project
 - 🌱 I’m currently learning Redux
