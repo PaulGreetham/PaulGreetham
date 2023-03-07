@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**PaulGreetham/PaulGreetham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+A Full-Stack JavaScript Developer with experience of JavaScript / TypeScript, React, MongoDB, Node.js, Next.js and Express. Creating solutions through TDD (test driven development) with simple, readable and scalable code.
 
 - 🔭 I’m currently working on React project
 - 🌱 I’m currently learning Redux
@@ -12,6 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was once in a Bollywood film.
--->
 
 
