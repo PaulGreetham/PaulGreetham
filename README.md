@@ -2,13 +2,13 @@
 
 A Full-Stack JavaScript Developer with experience of JavaScript / TypeScript, React, MongoDB, Node.js, Next.js and Express. Creating solutions through TDD (test driven development) with simple, readable and scalable code.
 
-:cyclone: Full-Stack JavaScript/TypeScript Developer
+:cyclone:   Full-Stack JavaScript/TypeScript Developer
 
-:gun: React, NextJS, Redux
+:gun:   React, NextJS, Redux
 
-:computer: NodJS, Express, REST, Async, MondoDB, SQL 
+:computer:   NodJS, Express, REST, Async, MondoDB, SQL 
 
-:school_satchel: Le Wagon Amsterdam + School of Applied Technology </SALT>
+:school_satchel:   Le Wagon Amsterdam + School of Applied Technology </SALT>
 
 
 
