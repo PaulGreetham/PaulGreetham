@@ -1,6 +1,6 @@
-### hello
+### HELLO 
 
-A Full-Stack JavaScript Developer with experience of JavaScript / TypeScript, React, MongoDB, Node.js, Next.js and Express. Creating solutions through TDD (test driven development) with simple, readable and scalable code.
+A Full-Stack JavaScript Developer with experience of JavaScript / TypeScript, React, MongoDB, Node.js, Next.js and Express. Creating solutions through TDD (test driven development) with simple, readable and scalable code. Scrum/agile/mob team focussed with 15+ years’ experience within different business roles as well most recently owning/founding own companies.
 
 
 ### Current Stack
@@ -18,15 +18,7 @@ A Full-Stack JavaScript Developer with experience of JavaScript / TypeScript, Re
 :mailbox_with_no_mail: https://www.linkedin.com/in/paul-greetham/
 
 
-
-
-* JavaScript / TypeScript
-* MERN Stack
-* Web + Mobile App Design
-* Git + GitHub
-* Active Records, SQL + JSON
-* UI/UX + Figma Design
-* Responsive + Mobile First Design
+### Bits & Pieces
 
 - 🔭 I’m currently working on React project
 - 🌱 I’m currently learning Redux
@@ -35,5 +27,3 @@ A Full-Stack JavaScript Developer with experience of JavaScript / TypeScript, Re
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was once in a Bollywood film.
-
-
