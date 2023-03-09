@@ -23,7 +23,5 @@ A Full-Stack JavaScript Developer with experience of JavaScript / TypeScript, Re
 - 🔭 I’m currently working on React project
 - 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on exciting build projects
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was once in a Bollywood film.
