@@ -1,27 +1,31 @@
-### HELLO 
+# Paul Greetham // Full-Stack JavaScript Developer
 
-A Full-Stack JavaScript Developer with experience of JavaScript / TypeScript, React, MongoDB, Node.js, Next.js and Express. Creating solutions through TDD (test driven development) with simple, readable and scalable code. Scrum/agile/mob team focussed with 15+ years’ experience within different business roles as well most recently owning/founding own companies.
+## About Me
 
+I am a Full-Stack JavaScript Developer with over 15 years of experience in different business roles, as well as founding and owning my own companies. My expertise lies in creating solutions through Test Driven Development (TDD) with simple, readable, and scalable code. I am focused on Scrum/Agile/Mob team methodology and have a strong background in JavaScript/TypeScript, React, MongoDB, Node.js, Next.js, and Express.
 
-### Current Stack
+## Current Stack
 
-:cyclone:   Full-Stack JavaScript/TypeScript Developer
+- Full-Stack JavaScript/TypeScript Developer
+- React, Next.js, Redux
+- Node.js, Express, REST, Async, MongoDB, SQL
+- Git + GitHub, Jest/Cypress, Docker, Figma
+- Graduate of Le Wagon Amsterdam + School of Applied Technology
 
-:gun:   React, NextJS, Redux
+## Projects
 
-:computer:   NodJS, Express, REST, Async, MondoDB, SQL 
+- Currently working on a React project
+- Learning Redux
 
-:factory:   Git+Github, Jest/Cypress, Docker, Figma
+## Collaboration
 
-:school_satchel:   Le Wagon Amsterdam + School of Applied Technology </SALT>
+I am passionate about collaborating on exciting build projects and expanding my knowledge of the latest technologies. Feel free to contact me to discuss potential collaborations.
 
-:mailbox_with_no_mail: https://www.linkedin.com/in/paul-greetham/
+## Fun Fact
 
+In addition to my passion for coding, I was once in a Bollywood film!
 
-### Bits & Pieces
+## Contact Me
 
-- 🔭 I’m currently working on React project
-- 🌱 I’m currently learning Redux
-- 👯 I’m looking to collaborate on exciting build projects
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was once in a Bollywood film.
+- LinkedIn: https://www.linkedin.com/in/paul-greetham/
+- Email: p.greetham@protonmail.com
