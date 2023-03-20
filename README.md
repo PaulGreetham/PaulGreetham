@@ -14,7 +14,9 @@ I am a Full-Stack JavaScript Developer with over 15 years of experience in diffe
 
 ## Projects
 
-- Currently working on a React project
+- Currently working on:
+  - gym app that allows users to log workouts and gain inspiration from exercise ideas 
+  - create a new personal portfolio website using React
 - Learning Redux
 
 ## Collaboration
