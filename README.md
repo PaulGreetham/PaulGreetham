@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Full-Stack JavaScript Developer with over 15 years of experience in different business roles, as well as founding and owning my own companies. My expertise lies in creating solutions through Test Driven Development (TDD) with simple, readable, and scalable code. I am focused on Scrum/Agile/Mob team methodology and have a strong background in JavaScript/TypeScript, React, MongoDB, Node.js, Next.js, and Express.
+I am a Full-Stack JavaScript Developer with over 15 years of experience in different business roles, as well as founding and owning my own companies. My expertise lies in creating solutions through Test Driven Development (TDD) with simple, readable, and scalable code. I am focused on Scrum/Agile/Mob team methodology and have a strong background in JavaScript/TypeScript, React, MongoDB, Node.js, and Express.
 
 ## Current Stack
 
@@ -15,9 +15,8 @@ I am a Full-Stack JavaScript Developer with over 15 years of experience in diffe
 ## Projects
 
 - Currently working on:
-  - gym app that allows users to log workouts and gain inspiration from exercise ideas 
-  - create a new personal portfolio website using React
-- Learning Redux
+  - My Game Weather - the only dedicated weather app for sports fans
+- Learning Angular
 
 ## Collaboration
 
