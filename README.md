@@ -1,4 +1,4 @@
-# Paul Greetham // Full-Stack JavaScript Developer
+# Paul Greetham // Software Developer
 
 ## About Me
 
@@ -6,10 +6,12 @@ I am a Full-Stack JavaScript Developer with over 15 years of experience in diffe
 
 ## Current Stack
 
-- Full-Stack JavaScript/TypeScript Developer
-- React, Next.js, Redux
-- Node.js, Express, REST, Async, MongoDB, SQL
-- Git + GitHub, Jest/Cypress, Docker, Figma
+- Full-Stack & Front-End TypeScript Developer
+- Angular
+- React
+- Node.js, Express, REST, Async, SQL
+- Git + GitLab, GitHub
+- Jest/Cypress, Docker, Figma
 - Graduate of Le Wagon Amsterdam + School of Applied Technology
 
 ## Fun Fact
