@@ -12,16 +12,6 @@ I am a Full-Stack JavaScript Developer with over 15 years of experience in diffe
 - Git + GitHub, Jest/Cypress, Docker, Figma
 - Graduate of Le Wagon Amsterdam + School of Applied Technology
 
-## Projects
-
-- Currently working on:
-  - My Game Weather - the only dedicated weather app for sports fans
-- Learning Angular
-
-## Collaboration
-
-I am passionate about collaborating on exciting build projects and expanding my knowledge of the latest technologies. Feel free to contact me to discuss potential collaborations.
-
 ## Fun Fact
 
 In addition to my passion for coding, I was once in a Bollywood film!
