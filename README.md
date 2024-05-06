@@ -2,17 +2,42 @@
 
 ## About Me
 
-I am a Full-Stack JavaScript Developer with over 15 years of experience in different business roles, as well as founding and owning my own companies. My expertise lies in creating solutions through Test Driven Development (TDD) with simple, readable, and scalable code. I am focused on Scrum/Agile/Mob team methodology and have a strong background in JavaScript/TypeScript, React, MongoDB, Node.js, and Express.
+A Full-Stack Software Developer (specializing in Angular and TypeScript), working on a SaaS monorepo to create readable, responsive and maintainable code within a modular architechutre.
+ 
+Scrum/agile/mob team focussed with 15+ years’ experience within different business roles as well most recently owning/founding own companies. Experience of:
+
+TECH
+- TypeScript + Angular
+- Monorepo
+- SaaS Scale-Up
+- Git + GitHub + GitLab
+- UI/UX + Figma Design
+- Web + Mobile App Design
+- Responsive Design
+
+NON-TECH
+- Sales/revenue generation (£1.3m pa)
+- Raising capital investment (£550k+)
+- Budget Management (£2m+)
+- 100%+ AGR (4 consecutive years)
+- Social Media (14k+ followers)
+- Art Direction + Brand Identity
+- Hiring + Managing 20+ staff
 
 ## Current Stack
 
-- Full-Stack & Front-End TypeScript Developer
+- Full-Stack & Front-End
 - Angular
-- React
+- TypeScript
 - Node.js, Express, REST, Async, SQL
 - Git + GitLab, GitHub
-- Jest/Cypress, Docker, Figma
-- Graduate of Le Wagon Amsterdam + School of Applied Technology
+- Jest, Cypress, Jasmine
+- Figma
+
+## Tech Bootcamps
+
+- SALT (School of Applied Technology), Amsterdam: Full-Stack TypeScript Bootcamp (13 weeks)
+- Le Wagon, Amsterdam: Full-Stack Ruby Web Development Bootcamp (10 weeks)
 
 ## Fun Fact
 
