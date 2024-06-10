@@ -2,9 +2,9 @@
 
 ## About Me
 
-A Full-Stack Software Developer (specializing in Angular and TypeScript), working on a SaaS monorepo to create readable, responsive and maintainable code within a modular architechutre.
+I am an experienced full-stack software developer with a strong focus on front-end development. I specialize in creating intuitive UI/UX and writing clean, maintainable code. My expertise includes building full-stack applications in Angular and React using TypeScript, as well as developing single monorepo SaaS applications.
  
-Scrum/agile/mob team focussed with 15+ years’ experience within different business roles as well most recently owning/founding own companies. Experience of:
+I am scrum/agile/pair team focussed with 15+ years’ experience within different business roles as well most recently owning/founding own companies. My experience includes:
 
 TECH
 - TypeScript + Angular
