@@ -1,19 +1,21 @@
-# Paul Greetham // Software Developer
+# Paul Greetham // Front-End Developer
 
 ## About Me
 
-I am an experienced full-stack software developer with a strong focus on front-end development. I specialize in creating intuitive UI/UX and writing clean, maintainable code. My expertise includes building full-stack applications in Angular and React using TypeScript, as well as developing single monorepo SaaS applications.
- 
-I am scrum/agile/pair team focussed with 15+ years’ experience within different business roles as well most recently owning/founding own companies. My experience includes:
+An experienced front-end software developer with a strong focus on creating intuitive UI/UX and writing clean, maintainable code. Expertise includes building applications in React using JavaScript & TypeScript; developing AI prototypes, MVPs & apps; and incorporating AI into existing businesses. Experience in also developing a monorepo SaaS applications, using Angular.
+
+Team focussed with 15+ years’ experience within different business roles as well owning/founding own companies. Experience includes:
 
 TECH
-- TypeScript + Angular
-- Monorepo
+- React + Angular
+- JavaScript + TypeScript
+- Building AI Prototypes, MVPs & Apps
+- Monorepos
 - SaaS Scale-Up
 - Git + GitHub + GitLab
 - UI/UX + Figma Design
 - Web + Mobile App Design
-- Responsive Design
+- Responsive + Mobile First Design
 
 NON-TECH
 - Sales/revenue generation (£1.3m pa)
@@ -24,24 +26,10 @@ NON-TECH
 - Art Direction + Brand Identity
 - Hiring + Managing 20+ staff
 
-## Current Stack
-
-- Full-Stack & Front-End
-- Angular
-- TypeScript
-- Node.js, Express, REST, Async, SQL
-- Git + GitLab, GitHub
-- Jest, Cypress, Jasmine
-- Figma
-
 ## Tech Bootcamps
 
 - SALT (School of Applied Technology), Amsterdam: Full-Stack TypeScript Bootcamp (13 weeks)
 - Le Wagon, Amsterdam: Full-Stack Ruby Web Development Bootcamp (10 weeks)
-
-## Fun Fact
-
-In addition to my passion for coding, I was once in a Bollywood film!
 
 ## Contact Me
 
