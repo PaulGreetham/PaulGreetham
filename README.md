@@ -34,4 +34,4 @@ NON-TECH
 ## Contact Me
 
 - LinkedIn: https://www.linkedin.com/in/paul-greetham/
-- Email: p.greetham@protonmail.com
+- Email: pgreetham@protonmail.com
