@@ -1,5 +1,9 @@
 # Paul Greetham // Front-End Developer
 
+- Website: https://paul-greetham.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/paul-greetham/
+- Email: pgreetham@protonmail.com
+
 ## About Me
 
 An experienced front-end software developer with a strong focus on creating intuitive UI/UX and writing clean, maintainable code. Expertise includes building applications in React using JavaScript & TypeScript; developing AI prototypes, MVPs & apps; and incorporating AI into existing businesses. Experience in also developing a monorepo SaaS applications, using Angular.
@@ -30,8 +34,3 @@ NON-TECH
 
 - SALT (School of Applied Technology), Amsterdam: Full-Stack TypeScript Bootcamp (13 weeks)
 - Le Wagon, Amsterdam: Full-Stack Ruby Web Development Bootcamp (10 weeks)
-
-## Contact Me
-
-- LinkedIn: https://www.linkedin.com/in/paul-greetham/
-- Email: pgreetham@protonmail.com
