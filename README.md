@@ -1,4 +1,4 @@
-# Paul Greetham // Front-End Developer
+# Paul Greetham // Software Developer
 
 - Website: https://paul-greetham.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/paul-greetham/
@@ -6,14 +6,14 @@
 
 ## About Me
 
-An experienced front-end software developer with a strong focus on creating intuitive UI/UX and writing clean, maintainable code. Expertise includes building applications in React using JavaScript & TypeScript; developing AI prototypes, MVPs & apps; and incorporating AI into existing businesses. Experience in also developing a monorepo SaaS applications, using Angular.
+A software developer with a focus on creating intuitive UI/UX. Experience includes building web applications in React using TypeScript; developing a monorepo SaaS application, using Angular; and developing cross-platform mobile apps using Expo.
 
 Team focussed with 15+ years’ experience within different business roles as well owning/founding own companies. Experience includes:
 
 TECH
 - React + Angular
-- JavaScript + TypeScript
-- Building AI Prototypes, MVPs & Apps
+- Next.js + Expo
+- TypeScript
 - Monorepos
 - SaaS Scale-Up
 - Git + GitHub + GitLab
