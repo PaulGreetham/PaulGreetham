@@ -6,7 +6,7 @@
 
 ## About Me
 
-A software developer with a focus on creating intuitive UI/UX. Experience includes building web applications in React using TypeScript; developing a monorepo SaaS application, using Angular; and developing cross-platform mobile apps using Expo.
+Software Developer with a strong focus on delivering intuitive user experiences and writing clean, maintainable code. Experienced in building scalable applications, working with modern frameworks, and maintaining complex codebases. Background includes developing cross-platform solutions, managing shared code in monorepos, and creating/maintaining integrations between software products and third-party services.
 
 Team focussed with 15+ years’ experience within different business roles as well owning/founding own companies. Experience includes:
 
